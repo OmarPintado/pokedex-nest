@@ -1,0 +1,9 @@
+h1 {
+	font-size: 3rem;
+	color: white;
+	}
+
+body, head {
+	padding: 5rem;
+	background-color: green;
+	}
